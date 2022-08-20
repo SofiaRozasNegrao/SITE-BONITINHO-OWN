@@ -1,0 +1,37 @@
+h3 {
+    color: rgb(220, 0, 57)
+}
+
+a{
+    color:#000000;
+    text-decoration: none;
+}
+
+h2, p{
+color:rgb(255, 0, 80);
+text-align: center;
+}
+
+.jogos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.jogo{
+    margin: 20px;
+    text-align: center;
+}
+
+.manu{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffe788;
+    color: rgb(0,0,0);
+    padding: 20px;
+}
+
+.menu{
+   
+}
